@@ -1,6 +1,6 @@
-## Sitecore XMC & OpenAI Translation Accelerator
+# Sitecore XMC & OpenAI Translation Accelerator
 
-# Prerequisites
+## Prerequisites
 
 Before proceeding:
 - Make sure your computer has Node.js installed: https://ionicframework.com/docs/reference/glossary#node
@@ -14,7 +14,7 @@ In the repository, you will find:
 
 Please note that the two archives / apps are not connected with each other. The Next.js App connects to Open AI directly. The Connect project expects XM Cloud to send content payload to trigger the job / recipe. 
 
-# XMC Explore App
+## XMC Explore App
 
 Basic instructions to run the application are provided as part of the app README file.
 
@@ -24,7 +24,7 @@ Run the application
 
 Explore code
 
-# Sitecore Connect Manifest
+## Sitecore Connect Manifest
 
 Create a Project for this initiative
 
