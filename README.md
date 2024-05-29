@@ -1,5 +1,9 @@
 # Sitecore XMC & OpenAI Translation Accelerator
 
+## About this repository
+
+This repository is designed to help developers learn and get started quickly with XMCLoud + Connect + Third-Party Services. It is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
 ## Prerequisites
 
 Before proceeding:
